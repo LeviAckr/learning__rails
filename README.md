@@ -1,4 +1,4 @@
-#LearningRails
+# LearningRails
 
 This repository is dedicated to learning Ruby on Rails, a Ruby web development framework.
 
